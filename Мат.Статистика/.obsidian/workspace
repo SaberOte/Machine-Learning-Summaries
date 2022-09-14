@@ -7,9 +7,11 @@
         "id": "5ffbbb57c9336289",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "attachments/Pasted image 20220908182723.png"
+            "file": "Регрессия и регрессионный анализ.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -75,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "attachments/Pasted image 20220908182723.png",
+                "file": "Регрессия и регрессионный анализ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "attachments/Pasted image 20220908182723.png",
+                "file": "Регрессия и регрессионный анализ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "attachments/Pasted image 20220908182723.png"
+                "file": "Регрессия и регрессионный анализ.md"
               }
             }
           }
@@ -128,15 +130,15 @@
   },
   "active": "5ffbbb57c9336289",
   "lastOpenFiles": [
+    "Корреляция.md",
+    "Дисперсионный анализ связанных выборок.md",
+    "Дисперсионный анализ несвязных выборок.md",
+    "Сравнение двух несвязных выборок.md",
+    "attachments/Pasted image 20220908182723.png",
     "attachments/Pasted image 20220908182642.png",
     "attachments/Pasted image 20220908182609.png",
     "attachments/Pasted image 20220908182540.png",
     "attachments/Pasted image 20220908182244.png",
-    "Регрессия и регрессионный анализ.md",
-    "Основы.md",
-    "Корреляция.md",
-    "Pasted image 20220908182101.png",
-    "Дисперсионный анализ связанных выборок.md",
-    "Дисперсионный анализ несвязных выборок.md"
+    "Регрессия и регрессионный анализ.md"
   ]
 }
