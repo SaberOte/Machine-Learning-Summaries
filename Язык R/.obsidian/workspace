@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Графики.md",
+            "file": "Функции.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Графики.md",
+                "file": "Функции.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Графики.md",
+                "file": "Функции.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Графики.md"
+                "file": "Функции.md"
               }
             }
           }
@@ -130,14 +130,15 @@
   },
   "active": "a494578b70c56cc3",
   "lastOpenFiles": [
-    "Функции.md",
     "Графики.md",
+    "ANOVA.md",
     "Типы данных.md",
+    "Функции.md",
+    "attachments/Pasted image 20220916132304.png",
+    "attachments/Pasted image 20220916120650.png",
+    "attachments/Pasted image 20220909202501.png",
     "Фотошпоры к графикам/data-visualization-2.1_page-0001.jpg",
     "Фотошпоры к графикам/data-visualization-2.1_page-0002.jpg",
-    "attachments/Pasted image 20220908211656.png",
-    "Pasted image 20220908211633.png",
-    "Pasted image 20220908211616.png",
-    "Pasted image 20220908211521.png"
+    "attachments/Pasted image 20220908211656.png"
   ]
 }
