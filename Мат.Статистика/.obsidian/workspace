@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Сравнение двух связных выборок.md",
-            "mode": "source",
+            "file": "Регрессия и регрессионный анализ.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -57,8 +57,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Сравнение двух связных выборок.md",
+                "file": "Регрессия и регрессионный анализ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Сравнение двух связных выборок.md",
+                "file": "Регрессия и регрессионный анализ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Сравнение двух связных выборок.md"
+                "file": "Регрессия и регрессионный анализ.md"
               }
             }
           }
@@ -131,15 +130,15 @@
   },
   "active": "5ffbbb57c9336289",
   "lastOpenFiles": [
+    "Дисперсионный анализ несвязных выборок.md",
+    "Дисперсионный анализ связанных выборок.md",
+    "Корреляция.md",
+    "Сравнение двух связных выборок.md",
     "Сравнение двух несвязных выборок.md",
     "Регрессия и регрессионный анализ.md",
-    "Корреляция.md",
-    "Дисперсионный анализ связанных выборок.md",
-    "Дисперсионный анализ несвязных выборок.md",
     "attachments/Pasted image 20220908182723.png",
     "attachments/Pasted image 20220908182642.png",
     "attachments/Pasted image 20220908182609.png",
-    "attachments/Pasted image 20220908182540.png",
-    "attachments/Pasted image 20220908182244.png"
+    "attachments/Pasted image 20220908182540.png"
   ]
 }
