@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CV Компьютерное зрение/Модели.md",
-                "mode": "source",
+                "file": "Язык R/Функции R.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CV Компьютерное зрение/Модели.md",
+                "file": "Язык R/Функции R.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CV Компьютерное зрение/Модели.md",
+                "file": "Язык R/Функции R.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CV Компьютерное зрение/Модели.md"
+                "file": "Язык R/Функции R.md"
               }
             }
           }
@@ -156,6 +156,8 @@
   },
   "active": "a2b9b5d9fe6e817c",
   "lastOpenFiles": [
+    "Язык R/Регрессионный анализ.md",
+    "CV Компьютерное зрение/Модели.md",
     "CV Компьютерное зрение/attachments/Pasted image 20230607001637.png",
     "CV Компьютерное зрение/attachments",
     "Python в data science/Прочие библиотеки.md",
