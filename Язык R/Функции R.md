@@ -92,7 +92,8 @@ Ex1: `table(df$status, df$field)`
 -|beh_cog| bio| chem |physics| soc  
 -|-|-|-|-|-  
 Not funded   |  100| 473  | 60    |  70  |44  
-Funded        |  65| 432 |  66 |     78|  32  
+Funded        |  65| 432 |  66 |     78|  32    
+  
 Ex2: ```table(Years = df$years_in_uni, Field = df$field, Status = df$status)```  
 , , Status = Not funded  
   
@@ -100,14 +101,16 @@ Ex2: ```table(Years = df$years_in_uni, Field = df$field, Status = df$status)```
 -|-|-|-|-|-  
   < 5      | 57 |198   |31      |20  |22  
 \> 10    |  29 |144   |28  |    47|  16  
-\> 5-10   |   14| 131    |1      | 3  | 6  
+\> 5-10   |   14| 131    |1      | 3  | 6    
+  
 , , Status = Funded  
   
 -|  beh_cog |bio| chem |physics |soc  
 -|-|-|-|-|-  
   < 5    |   27| 180  | 41     | 22  |14  
   \> 10    |  30| 155  | 19  |    54 | 15  
-  5-10  |     8 | 97  |  6      | 2  | 3  
+  5-10  |     8 | 97  |  6      | 2  | 3    
+  
 - **dim** - получить все размености таблицы. Если таблица 2x5, то выведет "2 5"  
 - **diag** - заполнить матрицу чем-то. Полезно чтобы убрать единицы по диагонали  
   
