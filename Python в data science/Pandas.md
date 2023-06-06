@@ -6,6 +6,7 @@
 - **df.tail()** - последние 5 элементов  
 - **df.pivot_table(values=A, index=B, aggfunc=C)** - составить новую таблицу с результатами выполнения функции C данными из A, а индексами В. Можно сделать трехмерную таблицу, используя *columns*  
 - **pd.melt(df, id_vars=A, value_vars=B)** - *unpivot*. Из широкой таблицы сделать длинную таблицу, распределяя колонки по строкам. Пример было/стало:   
+  
 Year | France GDP | Finland GDP | Russia GDP   
 -|-|-|-  
 2001 | 81 | 66 | 56  
@@ -24,7 +25,8 @@ Year | Countries | GDP
 - **df.shape** - количество строк и столбцов   
 - **df.groupby(A).aggregate(B)** - сгруппировать по A, и вывести для каждой группы B  
 Ex: `df.groupby('gender').aggregate({'score' : 'mean'})`   
-Out:   
+Out:  
+  
 | - | score |  
 |----|----|  
 | female | 83.8293 |  
