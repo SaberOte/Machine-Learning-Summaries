@@ -44,11 +44,14 @@ na.action - что делать с NA значениями
 Ex1: `t.test(t1$len, t2$len)`  
 Ex2: `t.test(Sepal.Length  ~ Species, df1)`  
 - **binom.test** - биномиальный тест. Можно ещё таблицу вкинуть  
-Ex: `binom.test(x = 5, n = 20, p = 0.5)`  
+Ex: ` binom.test(x = 5, n = 20, p = 0.5)`  
 - **hclust** - кластеризация (иерархическая)  
-Ex: ```d <- dist(test_data)   
+Ex:   
+```R  
+d <- dist(test_data)   
 fit <- hclust(d)   
-test_data$cluster <- factor(cutree(fit, k = n_cluster))```  
+test_data$cluster <- factor(cutree(fit, k = n_cluster))  
+```  
 - **chisq.test** - тест Хи-квадрат. В примере вкинули таблицу  
 - **fisher.test** - критерий Фишера. В примере вкинули таблицу  
 - **shapiro.test** - тест Шапиро-Уилка на нормальность распределения. Нулевая гипотеза - распределение нормальное  
@@ -68,6 +71,7 @@ levels(df$status) <- c("Not funded", "Funded")```
 - **aggregate** -  сгруппировать данные с помощью функции. Чтобы сгруппировать данные по нескольким группам, можно использовать '+'  
 Ex1: `aggregate(x = mtcars[,4], by=list(mtcars$am), FUN=sd)`  
 Ex2: `aggregate(hp ~ am, mtcars, sd)`  
+  
 |am|sd(hp)|  
 |-|-|  
 |1|53.90820|  
@@ -84,18 +88,21 @@ Ex: `describeBy(x = mtcars[,-c(8,9)], group = mtcars$vs, digits=1, mat = T)` т�
 ## Table (matrix)  
 - **table** - составить табличку. Размерность зависит от количества параметров  
 Ex1: `table(df$status, df$field)`    
+  
 -|beh_cog| bio| chem |physics| soc  
 -|-|-|-|-|-  
 Not funded   |  100| 473  | 60    |  70  |44  
 Funded        |  65| 432 |  66 |     78|  32  
 Ex2: ```table(Years = df$years_in_uni, Field = df$field, Status = df$status)```  
 , , Status = Not funded  
+  
 -|  beh_cog |bio| chem| physics |soc  
 -|-|-|-|-|-  
   < 5      | 57 |198   |31      |20  |22  
 \> 10    |  29 |144   |28  |    47|  16  
 \> 5-10   |   14| 131    |1      | 3  | 6  
 , , Status = Funded  
+  
 -|  beh_cog |bio| chem |physics |soc  
 -|-|-|-|-|-  
   < 5    |   27| 180  | 41     | 22  |14  
