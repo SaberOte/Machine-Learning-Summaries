@@ -1,0 +1,142 @@
+{
+  "main": {
+    "id": "85a82f656fb8b4ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9bc4cd8a66f1de6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Язык R/Функции.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f3d37f49fb796ddd",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1d0e968f4da9d8a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8e566ba2ed2b586",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "fb61c49277ee6cf5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ab19aecda87f7844",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0dec7c033dfcbae8",
+    "type": "split",
+    "children": [
+      {
+        "id": "a89c9eda18d8dd1c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "527912ceba9f5976",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Язык R/Функции.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "570b5ee4de59253f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Язык R/Функции.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "46dfe35376649f91",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "169683da58191053",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Язык R/Функции.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b9bc4cd8a66f1de6",
+  "lastOpenFiles": [
+    "Язык R/Графики.md",
+    "Язык R/Типы данных.md",
+    "Мат.Статистика/Регрессия и регрессионный анализ.md",
+    "Мат.Статистика/Основы.md",
+    "Язык R/Функции.md",
+    "Язык R/Фотошпоры к графикам/data-visualization-2.1_page-0001.jpg",
+    "Язык R/Фотошпоры к графикам/data-visualization-2.1_page-0002.jpg",
+    "Язык R/ANOVA.md"
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "5fae6e709bbf1c67",
+    "type": "split",
+    "children": [
+      {
+        "id": "bbce5bcc82323bc6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be8fe9f7f9d52e37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Глубокое обучение/Natural Language Processing/Word2Vec.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "768fc176fa687091",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Глубокое обучение/Natural Language Processing/Датасеты и предтренированные сети.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7c2e98dbcb6b1f7c",
+    "type": "split",
+    "children": [
+      {
+        "id": "7430c612eb69ebcc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb792d25e435b6de",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6e8552a3e03ecd5b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "\\sum",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "899e1c0718f1a1ef",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "56a2f1fbbfbfcbeb",
+    "type": "split",
+    "children": [
+      {
+        "id": "84bc5eb901ca5b36",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1929f539703bd2e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Глубокое обучение/Natural Language Processing/Word2Vec.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e56c1c28beac580d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Глубокое обучение/Natural Language Processing/Word2Vec.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c891502befefffa4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "021743777049d6ce",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Глубокое обучение/Natural Language Processing/Word2Vec.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "be8fe9f7f9d52e37",
+  "lastOpenFiles": [
+    "Глубокое обучение/Natural Language Processing/Word2Vec.md",
+    "Глубокое обучение/Natural Language Processing/Датасеты и предтренированные сети.md",
+    "Машинное обучение/Кластеризация.md",
+    "Python в data science/Pandas.md",
+    "Python в data science/Прочие библиотеки.md",
+    "Python в data science/Графики.md",
+    "Python в data science/scikit-learn.md",
+    "Машинное обучение/Деревья решений.md",
+    "Мат.Статистика/Регрессия и регрессионный анализ.md",
+    "Машинное обучение/Ансамблирование.md"
+  ]
+}

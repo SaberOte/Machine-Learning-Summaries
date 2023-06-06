@@ -3,7 +3,7 @@
   
 ## Классических подход  
 На картинке изображен базовый Pipeline **КЛАССИЧЕСКОГО** подхода к распознаванию речи  
-![Pasted image 20230424015958.png](https://github.com/PolkaDott/Data-Science-Summaries/blob/main/ASR%20Распознавание%20речи/attachments/Pasted%20image%2020230424015958.png?raw=true)  
+![[Pasted image 20230424015958.png]]  
   
 На этапе **Feature Extraction** используется например MFCC:  
 #### MFCC (Мел-частотные кепстральные коэффициенты)  

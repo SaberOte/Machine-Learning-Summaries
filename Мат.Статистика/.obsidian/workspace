@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "f4d13cd2535d6e00",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ffbbb57c9336289",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Регрессия и регрессионный анализ.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0ea319a24b431736",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb49448a13efebf9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae8e4659e1c5fd89",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a3f6820aed2b6b9f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "вилк",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ea4398cac420ebdb",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e74fbf90ac9750dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "fcac8eb5adf54f43",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9fc1e9acb07d3c43",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Регрессия и регрессионный анализ.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "070319f1658a447f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Регрессия и регрессионный анализ.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e99f593913b9ca09",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "939775ef75842073",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Регрессия и регрессионный анализ.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5ffbbb57c9336289",
+  "lastOpenFiles": [
+    "Основы.md",
+    "Корреляция.md",
+    "Регрессия и регрессионный анализ.md",
+    "Дисперсионный анализ несвязных выборок.md",
+    "Сравнение двух несвязных выборок.md",
+    "Сравнение двух связных выборок.md",
+    "Дисперсионный анализ связанных выборок.md",
+    "attachments/Pasted image 20220908182723.png",
+    "attachments/Pasted image 20220908182642.png",
+    "attachments/Pasted image 20220908182609.png"
+  ]
+}

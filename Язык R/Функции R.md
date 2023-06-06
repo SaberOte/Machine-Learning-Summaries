@@ -75,7 +75,7 @@ Ex2: `aggregate(hp ~ am, mtcars, sd)`
 - **subset** - вырезать кусок фрейма  
 Ex: `t1 <- subset(ToothGrowth, supp == 'OJ' & dose == 0.5)`  
 - **pairs** - вывести все возможные графики для анализа плеяды корреляций. Но стоило бы вырезать факторные переменные  
-![Pasted image 20220917124819.png|400](https://github.com/PolkaDott/Data-Science-Summaries/blob/main/Язык%20R/attachments/Pasted%20image%2020220917124819.png?raw=true)  
+![[Pasted image 20220917124819.png|400]]  
 - **describe** - дать кууучу статистических данных по каждой переменной фрейма. *БИБЛА PSYCH*  
 Ex: `describe(x = mtcars)`  
 - **describeBy** - то же самое, но можно группировать. *БИБЛА PSYCH*  

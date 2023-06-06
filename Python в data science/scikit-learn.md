@@ -7,7 +7,7 @@
 - **model_selection.train_test_split** - разделить данные на две группы. Например, на обучающую и тестовую  
 Ex: ```X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.33, random_state=42)```   
 Существует много аналогов, для "правильного" разделения. Используется также для кроссвалидации. Подробнее в [документации](https://scikit-learn.org/stable/modules/cross_validation.html)  
-![Pasted image 20221126120137.png](https://github.com/PolkaDott/Data-Science-Summaries/blob/main/Python%20в%20data%20science/attachments/Pasted%20image%2020221126120137.png?raw=true)  
+![[Pasted image 20221126120137.png]]  
 - **model_selection.cross_val_score** - инструмент для [[Деревья решений#Кроссвалидация|кроссвалидации]]. cv принимает число либо объект с настройками кроссвалидации  
 Ex: `cross_val_score(clf, X_train, y_train, cv=5)`   
 Вывод это массив из пяти *точностей* валидации для каждых 4-х сплитов  

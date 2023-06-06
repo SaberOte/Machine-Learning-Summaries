@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "5fae6e709bbf1c67",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf0d50a6c53889b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "902711129cdf855f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python в data science/Прочие библиотеки.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "945f5898e45c4a32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ASR Распознавание речи/Инструменты.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0013799172055235",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NLP Обработка естественного языка/Инструменты.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7c2e98dbcb6b1f7c",
+    "type": "split",
+    "children": [
+      {
+        "id": "7430c612eb69ebcc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb792d25e435b6de",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6e8552a3e03ecd5b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "\\sum",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "899e1c0718f1a1ef",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "56a2f1fbbfbfcbeb",
+    "type": "split",
+    "children": [
+      {
+        "id": "84bc5eb901ca5b36",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1929f539703bd2e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Python в data science/Прочие библиотеки.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e56c1c28beac580d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Python в data science/Прочие библиотеки.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c891502befefffa4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "021743777049d6ce",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Python в data science/Прочие библиотеки.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "902711129cdf855f",
+  "lastOpenFiles": [
+    "Python в data science/Графики.md",
+    "ASR Распознавание речи/Инструменты.md",
+    "ASR Распознавание речи/Базовые понятия в цифровом аудио.md",
+    "ASR Распознавание речи/Основы ASR.md",
+    "ASR Распознавание речи/attachments/Pasted image 20230424015958.png",
+    "ASR Распознавание речи/attachments",
+    "NLP Обработка естественного языка/RNN.md",
+    "ASR Распознавание речи",
+    "NLP Обработка естественного языка/attachments/Pasted image 20230413050020.png",
+    "NLP Обработка естественного языка/attachments/Pasted image 20230413051401.png",
+    "NLP Обработка естественного языка/attachments/Pasted image 20230413043915.png",
+    "NLP Обработка естественного языка/attachments/Pasted image 20230412010647.png",
+    "NLP Обработка естественного языка/attachments/Pasted image 20230412010523.png",
+    "Глубокое обучение/Natural Language Processing/Word2Vec.md",
+    "Глубокое обучение/Natural Language Processing/Датасеты и предтренированные сети.md",
+    "Машинное обучение/Кластеризация.md",
+    "Python в data science/Pandas.md",
+    "Python в data science/Прочие библиотеки.md",
+    "Python в data science/scikit-learn.md"
+  ]
+}

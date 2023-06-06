@@ -52,7 +52,7 @@ Ex: `X = titanic_data.drop(['PassengerId','Survived','Name','Ticket','Cabin'], a
 Ex: `my_stat.eval('V5 = V1 + V4', inplace=True)`  
 - **df.some_plot() - в *pandas* есть вполне симпатичные графики. Их можно посмотреть по [ссылке](https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html)  
 Ex: `df.plot()`  
-![Pasted image 20221116002307.png|400](https://github.com/PolkaDott/Data-Science-Summaries/blob/main/Python%20в%20data%20science/attachments/Pasted%20image%2020221116002307.png?raw=true)  
+![[Pasted image 20221116002307.png|400]]  
 ## Series  
 > Объект коллекции дата фрейма будет называться ds  
 - **ds.agg()** - аггрегирует по списку функций и возвращает результаты их выполнения в табличном виде  
