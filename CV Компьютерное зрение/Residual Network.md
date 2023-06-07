@@ -4,8 +4,8 @@
 ![Pasted image 20230607003045.png](https://github.com/PolkaDott/Data-Science-Summaries/blob/main/CV%20Компьютерное%20зрение/attachments/Pasted%20image%2020230607003045.png?raw=true)  
 Такое поведение **переносит** информацию с предыдущих слоёв, не давая затухать градиенту. Очень похоже на поведение *контекста* в модели [[RNN]].   
   
-Пример релизации может быть следующим:  
 ![Pasted image 20230607004208.png](https://github.com/PolkaDott/Data-Science-Summaries/blob/main/CV%20Компьютерное%20зрение/attachments/Pasted%20image%2020230607004208.png?raw=true)  
+Пример релизации может быть следующим:   
 1. Взять VGG-19   
 2. Добавить побольше слоёв  
 3. Добавить **residual-connections**.   
